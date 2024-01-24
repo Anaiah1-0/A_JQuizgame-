@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Question1Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question2Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question3Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question4Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question5Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuizEND.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
